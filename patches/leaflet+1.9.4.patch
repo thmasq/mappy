@@ -1,0 +1,18 @@
+diff --git a/node_modules/leaflet/dist/leaflet.css b/node_modules/leaflet/dist/leaflet.css
+index 2961b76..fe3e205 100644
+--- a/node_modules/leaflet/dist/leaflet.css
++++ b/node_modules/leaflet/dist/leaflet.css
+@@ -548,13 +548,6 @@ svg.leaflet-image-layer.leaflet-interactive path {
+ .leaflet-oldie .leaflet-popup-content-wrapper {
+ 	-ms-zoom: 1;
+ 	}
+-.leaflet-oldie .leaflet-popup-tip {
+-	width: 24px;
+-	margin: 0 auto;
+-
+-	-ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.70710678, M12=0.70710678, M21=-0.70710678, M22=0.70710678)";
+-	filter: progid:DXImageTransform.Microsoft.Matrix(M11=0.70710678, M12=0.70710678, M21=-0.70710678, M22=0.70710678);
+-	}
+ 
+ .leaflet-oldie .leaflet-control-zoom,
+ .leaflet-oldie .leaflet-control-layers,
